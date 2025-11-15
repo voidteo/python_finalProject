@@ -1,0 +1,25 @@
+{
+    "count": 2,
+    "records": [
+        {
+            "id": "f34cd242-afbf-4a07-a26e-0f63c2141775",
+            "username": "eshmat01",
+            "password": "meneshmat01",
+            "name": "Eshmat Toshmatov",
+            "account_number": "1111 2222 3333 4444",
+            "balance": 3000,
+            "is_active": true,
+            "created_at": "2025-01-01 00:00:00"
+        },
+        {
+            "id": "461c9bd9-b1d8-47c6-ae65-74ad6d3f99a7",
+            "username": "gulchapchap01",
+            "password": "mengulchapchap01",
+            "name": "Gulchapchap",
+            "account_number": "1111 1111 2222 3333",
+            "balance": 10000,
+            "is_active": true,
+            "created_at": "2025-11-13 15:31:01"
+        }
+    ]
+}

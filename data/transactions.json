@@ -1,0 +1,13 @@
+{
+    "count": 1,
+    "records": [
+        {
+            "id": "2245d42c-4495-4ee0-ad12-cfef95bcd567",
+            "account_id": "f34cd242-afbf-4a07-a26e-0f63c2141775",
+            "type": "deposit",
+            "amount": 1500,
+            "status": "completed",
+            "created_at": "2025-11-14 13:31:16"
+        }
+    ]
+}
